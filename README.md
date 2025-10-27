@@ -1,14 +1,17 @@
-<!-- README create by Amir-Bee - Ultimate Pro Edition -->
+<!-- README Create by Amir-Bee - Ultimate Ultimate Pro Edition -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Amir-Bee/Amir-Bee/main/profile-spin.gif" width="140" height="140" style="border-radius:50%; border:4px solid #000000;" alt="Profile Picture" />
+  <!-- GitHub Avatar -->
+  <img src="https://github.com/Amir-Bee.png" width="140" height="140" style="border-radius:50%; border:4px solid #000000;" alt="Profile Picture" />
 </p>
 
 <p align="center">
+  <!-- Animated Name -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=FFD700&center=true&vCenter=true&width=400&lines=Amir-Bee" alt="Amir-Bee" />
 </p>
 
 <p align="center">
+  <!-- Animated Bio -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=00FFAA&center=true&vCenter=true&width=500&lines=Clean+Code.+Creative+Mind.;Smart+Solutions.+Modern+Design." alt="animated-bio" />
 </p>
 
