@@ -30,7 +30,7 @@ Always learning. Always improving. Always coding.
 
 ### Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,php,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,php,git,github,vscode,csharp,cpp,nodejs" />
 </p>
 
 ---
@@ -60,4 +60,3 @@ Always learning. Always improving. Always coding.
 ---
 
 > *“Every line of code carries a piece of creativity.”*
-> 
