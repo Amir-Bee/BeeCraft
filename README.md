@@ -1,19 +1,18 @@
-<!-- README for Amir-Bee -->
+<!-- README Profile for Amir-Bee -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0072ff&height=100&section=header&text=Amir-Bee&fontSize=45&fontColor=ffffff&fontAlignY=55" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Amir-Bee" alt="Amir-Bee" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&lines=Clean+Code+%7C+Creative+Design+%7C+Smart+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=00FFC6&center=true&vCenter=true&width=550&lines=Clean+Code.+Creative+Mind.;Smart+Solutions.+Modern+Design." alt="animated-bio" />
 </p>
 
 ---
 
 ###  About Me
-> Hi, I'm **Amir** — a developer focused on building efficient, maintainable, and elegant code.  
-> I love transforming ideas into functional, modern, and creative digital experiences.  
-> Always learning. Always improving. Always coding.  
+> **Amir**, a developer passionate about crafting clean, elegant, and high-performance code.  
+> Turning creative ideas into functional, beautiful, and meaningful digital experiences.
 
 ---
 
@@ -33,7 +32,7 @@
 
 ---
 
-###  Connect with Me
+### Connect with Me
 <p align="center">
   <a href="mailto:Xstar.ir@gmail.com">
     <img src="https://img.shields.io/badge/Email-Xstar.ir@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
@@ -45,5 +44,4 @@
 
 ---
 
-###  Quote
-> “Code is where logic meets creativity — and beauty emerges.”
+> *“Every line of code carries a piece of creativity.”*
