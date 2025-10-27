@@ -1,7 +1,7 @@
-<!-- README Profile for Amir-Bee - Pro Edition -->
+<!-- README CREATE BY AMIR-BEE --!> 
 
 <p align="center">
-  <img src="https://github.com/Amir-Bee.png" width="120" height="120" style="border-radius:50%;" alt="Profile Picture" />
+  <img src="https://raw.githubusercontent.com/Amir-Bee/Amir-Bee/main/profile-spin.gif" width="140" height="140" style="border-radius:50%; border:4px solid #000000;" alt="Profile Picture" />
 </p>
 
 <p align="center">
