@@ -1,11 +1,11 @@
-<!-- README Profile for Amir-Bee - Bee_Craft Edition -->
+<!-- README create by Amir-Bee - Bee_Craft_ -->
 
 <!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000,FFD700&height=100&section=header&text=Bee_Craft_&fontSize=40&fontColor=ffffff" alt="Bee_Craft Banner" />
 </p>
 
-<!-- GitHub Profile Picture -->
+<!-- Profile Picture -->
 <p align="center">
   <img src="https://github.com/Amir-Bee.png" width="140" height="140" style="border-radius:50%; border:4px solid #000000;" alt="Profile Picture" />
 </p>
@@ -23,10 +23,8 @@
 ---
 
 ### About Me
-<p align="center" style="border:2px solid #FFD700; border-radius:10px; padding:15px; max-width:500px; margin:auto; background-color:#111111;">
-Hi, I'm <b>Amir</b>, a developer passionate about crafting clean, elegant, and high-performance code.<br>
-I turn creative ideas into functional, beautiful, and meaningful digital experiences.<br>
-Always learning. Always improving. Always coding.
+<p align="center" style="border:2px solid #FFD700; border-radius:12px; padding:12px 20px; max-width:450px; margin:auto; background-color:#111111; font-size:14px;">
+Hi, I'm <b>Amir</b>, a developer passionate about crafting clean, elegant, and high-performance code. I turn creative ideas into functional, beautiful, and meaningful digital experiences. Always learning. Always improving. Always coding.
 </p>
 
 ---
