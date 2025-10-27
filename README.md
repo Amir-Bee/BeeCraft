@@ -1,33 +1,36 @@
-<!-- README create by Amir-Bee -->
+<!-- README Profile for Amir-Bee - Pro Edition -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Amir-Bee" alt="Amir-Bee" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=FFD700&center=true&vCenter=true&width=400&lines=Amir-Bee" alt="Amir-Bee" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=00FFC6&center=true&vCenter=true&width=550&lines=Clean+Code.+Creative+Mind.;Smart+Solutions.+Modern+Design." alt="animated-bio" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=00FFAA&center=true&vCenter=true&width=500&lines=Clean+Code.+Creative+Mind.;Smart+Solutions.+Modern+Design." alt="animated-bio" />
 </p>
 
 ---
 
-###  About Me
-> **Amir**, a developer passionate about crafting clean, elegant, and high-performance code.  
-> Turning creative ideas into functional, beautiful, and meaningful digital experiences.
+### About Me
+<p align="center">
+Hi, I'm <b>Amir</b>, a developer passionate about crafting clean, elegant, and high-performance code.<br>
+I turn creative ideas into functional, beautiful, and meaningful digital experiences.<br>
+Always learning. Always improving. Always coding.
+</p>
 
 ---
 
-###  Tech Stack
+### Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,html,css,js,php,git,github,vscode" />
 </p>
 
 ---
 
-###  GitHub Stats
+### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amir-Bee&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Amir-Bee&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amir-Bee&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amir-Bee&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -39,6 +42,9 @@
   </a>
   <a href="https://github.com/Amir-Bee">
     <img src="https://img.shields.io/badge/GitHub-Amir--Bee-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Discord-xstar_ir%239083-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge">
   </a>
 </p>
 
