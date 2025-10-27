@@ -17,9 +17,13 @@
 
 ---
 
-### About Me
+### About ME
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=100&color=00FFAA&center=true&vCenter=true&width=500&lines=Hi,+I'm+Amir,+a+developer+passionate+about+crafting+clean,+elegant,+and+high-performance+code.;I+turn+creative+ideas+into+functional,+beautiful,+and+meaningful+digital+experiences.;Always+learning.+Always+improving.+Always+coding." alt="About Me" />
+  <kbd>
+Hi, I'm <b>Amir</b>, a developer passionate about crafting clean, elegant, and high-performance code.
+I turn creative ideas into functional, beautiful, and meaningful digital experiences.
+Always learning. Always improving. Always coding.
+  </kbd>
 </p>
 
 ---
