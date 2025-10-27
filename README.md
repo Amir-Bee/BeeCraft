@@ -1,6 +1,10 @@
 <!-- README Profile for Amir-Bee - Pro Edition -->
 
 <p align="center">
+  <img src="https://github.com/Amir-Bee.png" width="120" height="120" style="border-radius:50%;" alt="Profile Picture" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=FFD700&center=true&vCenter=true&width=400&lines=Amir-Bee" alt="Amir-Bee" />
 </p>
 
