@@ -30,7 +30,7 @@ Always learning. Always improving. Always coding.
 
 ### Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,php,git,github,vscode,csharp,cpp,nodejs" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,php,git,github,vscode,cpp,nodejs" />
 </p>
 
 ---
