@@ -1,4 +1,4 @@
-<!-- README create by Amir-Bee -  -->
+<!-- README created by Amir-Bee -->
 
 <p align="center">
   <!-- GitHub Avatar -->
@@ -17,7 +17,7 @@
 
 ---
 
-### About ME
+### About Me
 <p align="center">
   <kbd>
 Hi, I'm <b>Amir</b>, a developer passionate about crafting clean, elegant, and high-performance code.
@@ -60,3 +60,4 @@ Always learning. Always improving. Always coding.
 ---
 
 > *“Every line of code carries a piece of creativity.”*
+> 
